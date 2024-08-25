@@ -4,7 +4,7 @@ This is a [Vite](https://vitejs.dev/) template for a simple
 [TinyBase](https://tinybase.org/) app, using React, and also demonstrating the
 TinyBase ui-react-dom module UI components.
 
-<img width="847" alt="image" src="https://github.com/user-attachments/assets/b43d2692-4c84-4523-bb73-1454c2d0e256">
+<img width="847" alt="image" src="https://github.com/user-attachments/assets/614cd4f5-4ef8-46c2-8a2a-8df07ee59be7">
 
 ## Instructions
 
